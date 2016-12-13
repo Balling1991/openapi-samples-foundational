@@ -1,0 +1,20 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+*.suo
+*.user
+/FoundationalSamples/WebBasedBatchingDemo/WebBasedBatchingDemo/bin
+/FoundationalSamples/WebBasedBatchingDemo/WebBasedBatchingDemo/obj/Debug
+/FoundationalSamples/WebBasedBatchingDemo/.vs/config
+/FoundationalSamples/WebBasedStreamingDemo/packages/Newtonsoft.Json.6.0.4
+/FoundationalSamples/WebBasedStreamingDemo/WebBasedStreamingDemo/bin
+/FoundationalSamples/WebBasedStreamingDemo/.vs/config
+/FoundationalSamples/WebBasedStreamingDemo/packages/jQuery.2.1.3
+/FoundationalSamples/WebBasedStreamingDemo/WebBasedStreamingDemo/obj/Debug
+/FoundationalSamples/ConsoleBasedStreamingDemo/ConsoleBasedStreamingDemo/bin/Debug
+/FoundationalSamples/ConsoleBasedStreamingDemo/ConsoleBasedStreamingDemo/obj/Debug
+/FoundationalSamples/WebBasedLoginFlow/OpenApiWebDemo/bin
+/FoundationalSamples/WebBasedLoginFlow/OpenApiWebDemo/obj/Debug
+/FoundationalSamples/WebBasedLoginFlow/.vs/config
+/FoundationalSamples/WebBasedLoginFlow/packages
