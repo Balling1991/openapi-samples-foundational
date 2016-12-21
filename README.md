@@ -1,18 +1,14 @@
-# Introduction to Open API Samples
+# Foundational Samples
 
-> Please note that this is work in progress!
-
-This repository contains a range of sample applications, which shows how to authenticate different types of 
-clients applications and consume Saxo Bank's Open API platform.
+This section contains different types of sample applications, such as web applications, windows console application, certificate based application. Each application explains 
+* How to Authenticate ?
+* How to Get & Renew Access Token?
+* How to Call Open APIs?
+* How to setup Streaming and Batching?
 
 Target audience are technical people and client developers. 
 
-Please go through our [Foundational Samples](FoundationalSamples) to understand how our API's can be easily consumed.
-
-
-Please refer below link to register your APP with us - which would enable you to run  most of the samples:
-* [Register your app with Saxo Bank](https://developer.saxobank.com/sim/openapi/portal/article/Getting-Started_21597844.html)
-
+For more details on each, please go through the underlying samples.
 
 ---
 Copyright © 2016 Saxo Bank A/S
