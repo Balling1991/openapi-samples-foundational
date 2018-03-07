@@ -33,9 +33,9 @@ namespace OpenApiCertAuthDemo
 			catch (Exception ex)
 			{
 				Console.Error.WriteLine("Sample terminated with exception:");
-				Console.Error.WriteLine($"  {ex.GetType()}: {ex.Message}");
-				if (ex.InnerException != null)
-					Console.Error.WriteLine($"  {ex.InnerException.GetType()}: {ex.InnerException.Message}");
+				Console.Error.WriteLine($"{ex.GetType()}: {ex.Message}");
+				Console.Error.WriteLine();
+				Console.Error.WriteLine(ex.ToString());
 			}
 			Console.ReadLine();
 		}
