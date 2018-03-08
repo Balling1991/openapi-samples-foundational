@@ -1,9 +1,14 @@
-﻿################################################################################
+################################################################################
 # This .gitignore file was automatically created by Microsoft(R) Visual Studio.
 ################################################################################
 
+.vs/
 *.suo
 *.user
+
+bin/
+obj/
+
 /FoundationalSamples/WebBasedBatchingDemo/WebBasedBatchingDemo/bin
 /FoundationalSamples/WebBasedBatchingDemo/WebBasedBatchingDemo/obj/Debug
 /FoundationalSamples/WebBasedBatchingDemo/.vs/config
